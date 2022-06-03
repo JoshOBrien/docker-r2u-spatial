@@ -1,0 +1,9 @@
+This is a file to which I can add a character and then `git push`, to
+trigger rebuilding/publishing of an image on GHCR. I need *something*
+like this, because upstream changes to the packages in my GitHub drat
+repository do not trigger rebuilds of the image that needs to contain
+them.
+
+Dates of rebuilds:
+- 2022-03-30
+- 2022-06-01
